@@ -1,1 +1,5 @@
-inisialisasi
+File Inisialisasi Repo :
+- deskripisi
+- objective
+- cara menggunakan
+- cara deployment
